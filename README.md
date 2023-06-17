@@ -52,4 +52,4 @@ I hope you find this repository helpful in your RNA-seq analysis. If you have an
 
 Happy RNA-seq analysis!
 
-*[Your Name]*
+*[Alexander lim]*
